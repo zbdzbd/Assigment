@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\admin\Desktop\assignment\beiduozhouAssignment9\Project9\CLex.h(75): warning C4715:  'CLex::GetToken': not all control paths return a value
+  Project9.vcxproj -> C:\Users\admin\Desktop\assignment\beiduozhouAssignment9\Debug\assignment9.exe
